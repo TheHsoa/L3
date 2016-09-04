@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 /* Лекция 3 домашнее задание 1 слайд 15
  * Считать строку с консоли. 
