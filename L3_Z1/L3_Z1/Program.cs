@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 /* Лекция 3 задание 1 слайд 10
  * Сделать методы для считывания целых чисел, дробных чисел. 
